@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: membuddy
+Version: 0.1.0
+Summary: Local-first, cross-agent lessons and preferences
+Requires-Python: >=3.11
+Requires-Dist: sentence-transformers<7,>=3
+Requires-Dist: mcp<2,>=1.12
